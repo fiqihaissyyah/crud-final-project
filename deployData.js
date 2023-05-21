@@ -10,6 +10,6 @@ const studentName = 'Fiqih Aissyyah'; // TODO: replace this
 
 const studentId = 'FE4278003'; // TODO: replace this
 
-const NetlifyDeployUrl = 'https://shimmering-strudel-302362.netlify.app/'; // TODO: replace this
+const NetlifyDeployUrl = 'shimmering-strudel-302362.netlify.app/'; // TODO: replace this
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };
