@@ -4,7 +4,7 @@
   "description": "final project for html course - Kampus Merdeka Batch 4",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
+    "build": "",
     "test": "jest --silent",
     "test:debug": "jest",
     "start:client": "serve ./client",
